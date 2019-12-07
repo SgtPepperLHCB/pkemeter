@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+docker-compose exec broker1 kafka-server-stop
